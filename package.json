@@ -1,0 +1,24 @@
+{
+  "name": "node_debutant_cow_say",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "cowsay": "^1.5.0",
+    "react-router-dom": "^5.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eths09/Exercice-Node-d-butant---Cow-Say-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eths09/Exercice-Node-d-butant---Cow-Say-/issues"
+  },
+  "homepage": "https://github.com/eths09/Exercice-Node-d-butant---Cow-Say-#readme"
+}
